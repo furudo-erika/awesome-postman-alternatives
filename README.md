@@ -26,8 +26,7 @@ API Clients, Postman Alternative, Insomnia Alternative, REST Client, GraphQL Cli
 
 ### 1. [Apidog](https://apidog.com/)
 A comprehensive API development platform that integrates API design, debugging, testing, and documentation in one place. (Note: Not open-source, but included by request).
-- **GitHub Repository**: [https://github.com/Apidog](https://github.com/Apidog) (Organization)
-- **Features**: API design, debugging, mock services, automated testing, team collaboration, OpenAPI support
+- **Features**: API design, debugging, mock services, automated testing, team collaboration, API Documentation, OpenAPI support
 
 [![image](https://github.com/user-attachments/assets/2feef159-8530-4e96-8e60-a9ce704328cd)](https://apidog.com)
 
