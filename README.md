@@ -1,4 +1,4 @@
-# Awesome Postman Alternatives (Open Source & Free)
+# Awesome API Clients as Postman Alternatives (Open Source & Free)
 
 ## Awesome API Clients as Postman Alternatives
 
