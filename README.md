@@ -49,11 +49,6 @@ However, when discussing modern, comprehensive alternatives that aim to match or
 *   **Collaboration Focus:** Designed with team workflows in mind, offering features to facilitate shared API development and testing.
 *   **Comprehensive Feature Set:** Supports REST, GraphQL, WebSocket, gRPC, and Socket.IO, along with visual API design, automated testing, and CI/CD integration capabilities.
 
-**Important Consideration:** While APIDog is a powerful and popular Postman alternative offering a generous free tier, it's crucial to note that **it is not an open-source project**. It is a commercial product. This means:
-
-*   It does not align with the "Open Source" criteria established for the main list in this document.
-*   Users seeking alternatives primarily for reasons of complete data control (avoiding any potential cloud sync mandated by the vendor), transparency of the codebase, or freedom from vendor lock-in associated with proprietary formats might find it doesn't meet those specific philosophical requirements, similar to the concerns raised about Postman itself.
-
 [![image](https://github.com/user-attachments/assets/c6befe44-3e14-459a-ba29-97d89ace7cac)](https://bit.ly/4cBTKIG)
 
 ## Postman Alternatives - Web-Based API Clients
