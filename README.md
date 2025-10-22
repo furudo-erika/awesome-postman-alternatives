@@ -138,8 +138,8 @@ Installed natively on your OS (Windows, macOS, Linux), desktop clients often pro
 
 ### [Pororoca](https://pororoca.io) ([repo](https://github.com/alexandrehtrb/Pororoca))
 
-*   **Keywords:** HTTP inspection tool, HTTP/2, HTTP/3, Rust.
-*   **Description:** Pororoca is primarily an HTTP inspection tool with strong support for modern protocols like **HTTP/2** and **HTTP/3**, alongside HTTP/1.1. Built with Rust for performance, it allows detailed analysis and debugging of interactions using these newer protocols, capabilities often lacking in older clients. While it can send requests, its focus on inspection and advanced protocol support differentiates it.
+*   **Keywords:** HTTP inspection tool, HTTP/2, HTTP/3, C#, .NET, Cross-platform.
+*   **Description:** Pororoca is primarily an HTTP inspection tool with strong support for modern protocols like **HTTP/2** and **HTTP/3**, alongside HTTP/1.1. Built with C#/.NET and cross-platform, it allows detailed analysis and debugging of interactions using these newer protocols, capabilities often lacking in older clients. While it can send requests, its focus on inspection and advanced protocol support differentiates it.
 
 ### [Nightingale REST Client](https://nightingale.rest/) ([repo](https://github.com/jenius-apps/nightingale-rest-api-client))
 
@@ -153,8 +153,8 @@ Installed natively on your OS (Windows, macOS, Linux), desktop clients often pro
 
 ### [Cartero](https://cartero.danirod.es/) ([repo](https://github.com/danirod/cartero))
 
-*   **Keywords:** Native, Lightweight, Multiplatform, Free HTTP client.
-*   **Description:** Cartero aims to be a **native**, **lightweight**, multiplatform, and **free** HTTP client. It focuses on providing the essential API request functionality without excessive complexity, using native UI toolkits (like GTK on Linux) for better performance and OS integration. A good option for users seeking a simple, fast, no-frills desktop client.
+*   **Keywords:** Native, Lightweight, Multiplatform, Free HTTP client, Rust.
+*   **Description:** Cartero aims to be a **native**, **lightweight**, multiplatform, and **free** HTTP client. It focuses on providing the essential API request functionality without excessive complexity, using native UI toolkits (like GTK on Linux) and Rust for better performance and OS integration. A good option for users seeking a simple, fast, no-frills desktop client.
 
 ---
 
