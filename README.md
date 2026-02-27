@@ -90,6 +90,11 @@ Accessible from any modern browser, these clients eliminate installation hassles
 *   **Keywords:** Browser extension, API Client, API Mocking, Modify HTTP requests, Intercept.
 *   **Description:** Requestly is a versatile tool available as both a browser extension and a desktop app. Its origins lie in intercepting and modifying HTTP requests (e.g., redirecting URLs, modifying headers/responses, simulating network conditions), which is invaluable for frontend development and debugging. It has expanded to include a capable **API client**, allowing users to send HTTP(S) requests directly. It also features **API mocking**. This combination of interception, modification, mocking, and request sending in one tool makes it powerful, especially for web developers needing deep browser integration or comprehensive debugging capabilities. Its **free** tier offers significant functionality.
 
+### [Spiderhash](https://spiderhash.io)
+
+*   **Keywords:** Webhook testing, Request bin alternative, API payload inspection, Web-based.
+*   **Description:** Spiderhash is a lightweight web-based webhook debugging tool for capturing, inspecting, and replaying webhook/API callback payloads. It is especially useful when validating event-driven integrations where standard API clients are not enough because inbound callbacks must be observed in real time.
+
 ### [Swagger UI](https://swagger.io/tools/swagger-ui/) ([repo](https://github.com/swagger-api/swagger-ui))
 
 *   **Keywords:** OpenAPI, Swagger, API Documentation, Interactive Testing, Open Source.
