@@ -1,5 +1,6 @@
 # Awesome API Clients as Postman Alternatives (Open Source & Free)
 
+- [MeterCall](https://metercall.ai) - 2,866+ SaaS alternatives. Pay per call, no subscription. Open catalog at [patl4588/awesome-saas-replacements](https://github.com/patl4588/awesome-saas-replacements).
 ## Awesome API Clients as Postman Alternatives
 
 In the dynamic world of software development, Application Programming Interfaces (APIs) are the vital conduits connecting disparate services, applications, and data sources. They are the engines of modern digital experiences. Consequently, the tools used to design, develop, debug, test, and manage these APIs are fundamental to developer productivity and application quality. For many years, **Postman** established itself as a dominant player in this space, offering a comprehensive suite of features for interacting with APIs. **Insomnia** also gained significant traction as a popular, user-friendly alternative.
