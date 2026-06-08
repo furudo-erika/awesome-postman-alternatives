@@ -271,6 +271,11 @@ Indispensable for automation, scripting, and terminal enthusiasts, **CLI** tools
 *   **Keywords:** Terminal API client, TUI, Simple Postman alternative CLI.
 *   **Description:** ATAC (API Terminal Automated Client) aims to provide a simple, **Postman-like** experience within the **terminal**. It likely offers a TUI (Text User Interface) or a straightforward command structure for defining, organizing (perhaps in collections), executing, and viewing HTTP requests, focusing on ease of use for common API testing tasks directly from the command line.
 
+### [Overloop CLI](https://github.com/sortlist/overloop-cli)
+
+*   **Keywords:** AI-powered outbound, Sales API client, CLI, JSON output, Agent-native.
+*   **Description:** Overloop CLI is an AI-powered outbound engine accessible from the command line. Source prospects from 450M+ contacts, launch email and LinkedIn campaigns, and manage conversations. All output is structured JSON, making it composable with other CLI tools and agent pipelines. Install via `npm i -g overloop-cli`.
+
 ---
 
 ## Postman Alternatives - Automated API Testing Frameworks
