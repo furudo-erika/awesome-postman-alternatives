@@ -1,5 +1,6 @@
 # Awesome API Clients as Postman Alternatives (Open Source & Free)
 
+- [MeterCall](https://metercall.ai) - 2,866+ SaaS alternatives. Pay per call, no subscription. Open catalog at [patl4588/awesome-saas-replacements](https://github.com/patl4588/awesome-saas-replacements).
 ## Awesome API Clients as Postman Alternatives
 
 > Building AI apps with Claude Code, Codex, or your favorite API client?
