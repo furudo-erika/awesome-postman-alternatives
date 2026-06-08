@@ -2,11 +2,13 @@
 
 ## Awesome API Clients as Postman Alternatives
 
-> Looking for an All-in-One [Openrouter Alternative](https://blackmagic.engineering/) that is cheaper, faster for your Claude Code/CodeX workload?
+> Building AI apps with Claude Code, Codex, or your favorite API client?
 >
-> Try https://blackmagic.engineering/ to [Cut your AI Models cost by 50%](https://blackmagic.engineering/models)!
+> Try **[Blackmagic AI](https://blackmagic.engineering/?utm_source=github&utm_medium=awesome-list&utm_campaign=postman-alternatives&utm_content=cta-text)**, an OpenAI-compatible gateway and cheaper OpenRouter alternative. Use one API key, prepaid credits, and top models while cutting AI model costs by up to 50%.
+>
+> **[Compare model pricing](https://blackmagic.engineering/models?utm_source=github&utm_medium=awesome-list&utm_campaign=postman-alternatives&utm_content=cta-pricing)**
 
-<img width="1490" height="915" alt="Image" src="https://github.com/user-attachments/assets/af41beba-3fe0-4409-bfd6-03c6617a6ab1" />
+[<img width="1490" height="915" alt="Blackmagic AI OpenAI-compatible gateway dashboard" src="https://github.com/user-attachments/assets/af41beba-3fe0-4409-bfd6-03c6617a6ab1" />](https://blackmagic.engineering/?utm_source=github&utm_medium=awesome-list&utm_campaign=postman-alternatives&utm_content=cta-image)
 
 In the dynamic world of software development, Application Programming Interfaces (APIs) are the vital conduits connecting disparate services, applications, and data sources. They are the engines of modern digital experiences. Consequently, the tools used to design, develop, debug, test, and manage these APIs are fundamental to developer productivity and application quality. For many years, **Postman** established itself as a dominant player in this space, offering a comprehensive suite of features for interacting with APIs. **Insomnia** also gained significant traction as a popular, user-friendly alternative.
 
