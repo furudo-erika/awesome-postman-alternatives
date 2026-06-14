@@ -185,6 +185,11 @@ These tools bring API interaction directly into your code editor, minimizing con
 *   **Keywords:** VS Code extension, Lightweight REST API Client, GUI inside VS Code.
 *   **Description:** Another highly popular **VS Code extension**, **Thunder Client** provides a lightweight, GUI-based REST API client experience directly within the editor, often cited as a direct **Postman alternative** for VS Code users. Unlike the text-based approach of REST Client, Thunder Client offers a graphical interface similar to standalone clients (Postman, Insomnia) but integrated into VS Code's sidebar. It supports collections, environment variables, scripting, and testing, offering a more visual workflow without leaving the IDE. Its ease of use and feature set make it extremely popular.
 
+### [API Workbench](https://github.com/sapph1re/api-workbench)
+
+*   **Keywords:** VS Code extension, Local-first, API testing, Agent-readable reports, Cursor, Windsurf, Agentic IDE.
+*   **Description:** **API Workbench** is a **VS Code extension** built for agentic IDE workflows (Cursor, Windsurf, VS Code). It is **local-first**: collections and environments are stored as plain JSON files alongside your code — no account or cloud sync required. Its standout feature is **agent-readable Markdown and JSON reports**: AI coding assistants can read API test output and act on failures directly in the chat. Supports REST, environment variables, collection runner, and a built-in MCP layer for CI-compatible output — all without leaving the editor.
+
 ### [RESTClient (Firefox Add-on)](https://addons.mozilla.org/en-US/firefox/addon/restclient/)
 
 *   **Keywords:** Firefox add-on, REST debugger, Browser extension.
