@@ -108,6 +108,11 @@ Accessible from any modern browser, these clients eliminate installation hassles
 *   **Keywords:** OpenAPI, Swagger, API Documentation, Interactive Testing, Open Source.
 *   **Description:** While **Swagger UI**'s primary purpose is to render **OpenAPI** (formerly Swagger) specifications as interactive **API documentation**, it serves as a valuable tool for **interactive testing**. It generates a user interface directly from an API definition, allowing developers (and consumers) to explore endpoints, understand request/response models, and execute live API calls directly within the documentation page. It's **open-source** and widely used. Though not a full-fledged API client like Postman (lacking collections management, complex scripting, etc.), its ability to provide an immediate, interactive testing environment based on the API contract makes it an essential part of the API ecosystem and a useful tool for quick checks. Often discussed in "**Swagger vs. Postman**" comparisons, they serve different primary roles but overlap in interactive testing.
 
+### [url.computer](https://url.computer/) ([repo](https://github.com/rvilgalys/url.computer))
+
+*   **Keywords:** Client-side, URL parser, URL editor, cURL builder, Privacy, Lightweight alternative, No account.
+*   **Description:** url.computer is a **lightweight**, **100% client-side** developer tool for parsing and live-editing URLs and building **cURL** commands. It's a privacy-first take on the "quick Postman alternative" niche: there are **no accounts** and nothing is ever sent to a server. Build cURL queries with headers, a JSON body, and flags, then save states to local storage or share them via the URL `#fragment` (app state lives in the link itself). You can import a URL just by pasting it after the domain (`url.computer/google.com`) or strip tracking junk with the clean route (`url.computer/clean/cool-thing.com?tracking-id=omgwtf`). Ideal for surgically editing one query param in a long, inscrutable dev URL, stashing a staging link you keep reloading, or sharing a sample API call with a coworker. Also: it's a nice shade of blue.
+
 ---
 
 ## Postman Alternatives - Desktop API Clients
